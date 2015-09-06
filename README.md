@@ -6,12 +6,12 @@ privately held; contact the author if it is needed.
 
 ## Prep
 
-    - A server that receives (or has access to) an ISIS feed and a
-      copy of ISIS_Feed.pm are needed.
-    - A Windows computer that has PowerShell with the Active Directory
-      extensions is needed.
-    - Update extend-expiration.ps1 and check-expiry.pl for the desired
-      expiration date.
+  - A server that receives (or has access to) an ISIS feed and a copy
+    of ISIS_Feed.pm are needed.
+  - A Windows computer that has PowerShell with the Active Directory
+    extensions is needed.
+  - Update extend-expiration.ps1 and check-expiry.pl for the desired
+    expiration date.
 
 ## Use
 
